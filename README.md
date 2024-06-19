@@ -51,5 +51,5 @@ Screenshots:-
 
 HOW TO USE?
 1) Extract the zip file
-2) pip install -r requests.txt
+2) pip install -r requirements.txt
 3) all done open the OMDB Modern file with double click
