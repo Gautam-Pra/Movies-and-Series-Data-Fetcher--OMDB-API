@@ -13,7 +13,9 @@ It can download posters with one click.
 
 #Prerequisite:
 omdb api key from omdb website -> https://www.omdbapi.com/apikey.aspx
-choose Free one ![image](https://github.com/Gautam-Pra/Movies-and-Series-Data-Fetcher--OMDB-API/assets/84336961/35085d37-18b2-41c8-b2fd-2f8dcfeb31a5)
+choose Free one
+
+![image](https://github.com/Gautam-Pra/Movies-and-Series-Data-Fetcher--OMDB-API/assets/84336961/35085d37-18b2-41c8-b2fd-2f8dcfeb31a5)
 
 
 Screenshots:-
