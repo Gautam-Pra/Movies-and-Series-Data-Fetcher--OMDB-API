@@ -1,4 +1,4 @@
-# Movies-and-Series-Data-Fetcher--OMDB-API
+# Movies-and-Series-Data-Fetcher--OMDB-API WITH GUI
 
 THIS PROJECT IS BASED ON OMDB API CONNECTIVITY WITH TKINTER GUI IN PYTHON
 
